@@ -1,1 +1,1 @@
-# Tevox.github.io
+The HTML file includes everything you need to understand the basics of HTML. The .exe file contains a set of exercises, along with clear instructions, so you can practice and improve your skills. Finally, the .txt file is there for you to start building your own website and apply what you’ve learned.
